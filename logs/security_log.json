@@ -1,0 +1,22 @@
+[
+    {
+        "time": "2026-01-04 21:53:14",
+        "level": "INFO",
+        "message": "Monitoring started"
+    },
+    {
+        "time": "2026-01-04 21:53:17",
+        "level": "INFO",
+        "message": "No suspicious startup entries found"
+    },
+    {
+        "time": "2026-01-04 21:53:25",
+        "level": "INFO",
+        "message": "No suspicious startup entries found"
+    },
+    {
+        "time": "2026-01-04 21:53:27",
+        "level": "INFO",
+        "message": "Monitoring stopped"
+    }
+]

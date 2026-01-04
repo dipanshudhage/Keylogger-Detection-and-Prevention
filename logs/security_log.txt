@@ -1,0 +1,9 @@
+2026-01-04 21:13:12 [INFO] Monitoring started
+2026-01-04 21:13:14 [INFO] No suspicious startup entries found
+2026-01-04 21:13:26 [INFO] Monitoring stopped
+2026-01-04 21:13:28 [INFO] Monitoring started
+2026-01-04 21:13:49 [INFO] No suspicious startup entries found
+2026-01-04 21:53:14 [INFO] Monitoring started
+2026-01-04 21:53:17 [INFO] No suspicious startup entries found
+2026-01-04 21:53:25 [INFO] No suspicious startup entries found
+2026-01-04 21:53:27 [INFO] Monitoring stopped
